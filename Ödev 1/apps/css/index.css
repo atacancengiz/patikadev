@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    margin-left: 50px;
+    margin-top: 150px;
+}
+
+ul li a {
+    font-size: 24px;
+    font-weight: 500;
+    color: black;
+}
+
+ul li a:hover {
+    color: palevioletred;
+}
+
+.header .urun {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.header p {
+    text-align: center;
+}
+
+.urun-liste {
+    margin-top: 20px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.urunler {
+    color: rebeccapurple;
+    text-align: center;
+}
+
+.about {
+    text-align: center;
+}
+
+.about-desc {
+    color: purple;
+}
